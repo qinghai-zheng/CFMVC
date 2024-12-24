@@ -1,7 +1,7 @@
 # IMVC-IE
-Source codes of the work "Incomplete_Multi-View_Clustering_Via_Inference_and_Evaluation" published in ICASSP 2024.
+Source codes of the work "Cross-view Fusion for Multi-view Clustering" published in IEEE Signal Processing Letters.
 
-<img src="./framework_fig.png" width="70%">
+<img src="./framework_fig.png" width="80%">
 
 If you find this repository useful in your research, please cite our work as follows, thanks.
 
