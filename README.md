@@ -1,4 +1,4 @@
-# IMVC-IE
+# CFMVC
 Source codes of the work "Cross-view Fusion for Multi-view Clustering" published in IEEE Signal Processing Letters.
 
 <img src="./framework_fig.png" width="80%">
